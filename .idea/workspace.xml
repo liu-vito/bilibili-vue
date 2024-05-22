@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7a286ed4-76f4-4c9d-97cf-581b1e2c667b" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../../word_ygxy作业/数据结构/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/.browserslistrc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/.eslintrc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/App.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/assets/css/global.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/assets/logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/components/Aside.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/components/Header.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/components/HelloWorld.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/main.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/router/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/store/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/views/AboutView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/src/views/HomeView.vue" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../../../vue/newvue/yarn.lock" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 4
+}]]></component>
+  <component name="ProjectId" id="2gpzRqUCtkzhr59kkfH63SjOG9m" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master2",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-2e7d6887c066-JavaScript-WS-241.15989.47" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="7a286ed4-76f4-4c9d-97cf-581b1e2c667b" name="更改" comment="" />
+      <created>1716409301989</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1716409301989</updated>
+      <workItem from="1716409303224" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
